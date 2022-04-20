@@ -17,3 +17,5 @@ We have 3 tables: USERS, COURSES and ENROLLED
 #### ENROLLED 
 * USER_ID
 * MY_COURESES
+
+# Sprint 2
